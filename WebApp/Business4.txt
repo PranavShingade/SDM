@@ -1,0 +1,33 @@
+business entities 
+
+
+
+Project Manager: 
+A user who creates and manages projects, assigns tasks, and tracks progress.
+Team Member: A user who is assigned tasks and updates progress.
+
+The system should allow HR staff to manage employee leave 
+Entering employee salaries
+Calculating employee salaries based on attendance and other factors
+Generating pay stubs
+Generating payroll reports
+
+Leave Management
+The system should allow HR staff to manage employee leave 
+The system should be developed using web-based technologies.
+The system should be scalable and able to handle increasing amounts of employee data.
+The system should be integrated with other HR systems, such as payroll and attendance tracking systems.
+
+
+Team Members: These are the individuals who are assigned tasks and work on projects using the online project management system. 
+They may use the platform to view their tasks, provide 
+updates, and communicate with other team members.
+
+Clients: These are the individuals or organizations for whom the projects are being completed.
+ They may have access to the online project management system to view project progress, 
+provide feedback, and communicate with the project team.
+
+
+Administrators: These are the individuals who manage the user accounts and settings for the online project management system.
+ They may configure access permissions, manage integrations,
+ and generate reports.

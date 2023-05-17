@@ -1,0 +1,23 @@
+Employe recruitment system 
+
+vieworganization requrirement 
+can upload their cv 
+
+Introduction
+The Employee  recruitment  System is an application designed to assist the HR in managing employee data,
+
+This system will be a web-based application that can be accessed by authorized personnel from anywhere.
+
+jobsekker can register online ,appy suitable job 
+
+Functional Requirements
+The Employee requirement System will have the following functional requirements:
+they can upload their cv 
+can apply jobs 
+
+Add employee information, such as name, address, contact information, and job details
+Edit employee information
+Delete employee information
+Search employee information based on certain criteria
+Generate employee reports
+
